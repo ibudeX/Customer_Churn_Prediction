@@ -1,0 +1,5 @@
+customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+9237-HQITU,2,Yes,Month-to-month,Yes,Electronic check,70.7,151.65,Yes
+5575-GNVDE,34,Yes,One year,No,Mailed check,56.95,1889.5,No
+9305-CDSKC,8,Yes,Month-to-month,Yes,Electronic check,99.65,820.5,Yes
+6713-OKOMC,10,No,Month-to-month,No,Mailed check,29.75,301.9,No
